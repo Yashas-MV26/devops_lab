@@ -2,7 +2,7 @@ public class test{
 
   public static void main(String args[]){
 
-    String name="Alice";
+    String name="MV";
 
     int age=25;
 
@@ -17,7 +17,6 @@ public class test{
     System.out.printf("Summary: %s is %d years old and scored %.2f points.%n",name,age,score);
 
   }
-
 }
 
 
